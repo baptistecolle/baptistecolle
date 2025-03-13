@@ -1,7 +1,7 @@
 ---
 name: Skill Endorsement
 about: Endorse a skill on my profile
-title: 'Endorse: EMOJI SKILL_HERE'
+title: 'Endorse: EMOJI_HERE SKILL_HERE'
 labels: 'endorsement'
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 
 ## Option 1: Create a New Endorsement
 1. Edit the title above to replace `SKILL_HERE` with the skill you want to endorse
-2. Edit the title to replace `EMOJI` with an emoji that represents the skill
+2. Edit the title to replace `EMOJI_HERE` with an emoji that represents the skill
 
 Example titles:
 - `Endorse: 🐍 Python`
