@@ -1,0 +1,46 @@
+name: Update Endorsements
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Runs every day at 01:00
+  workflow_dispatch:  # Allow manual triggering
+  issues:
+    types: [opened, edited, closed, reopened]  # Run when issues change
+  issue_comment:
+    types: [created, edited, deleted]  # Run when comments on issues change
+
+jobs:
+  update-endorsements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to push changes to README
+      issues: read     # Needed to read issues and their reactions
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run endorsement script
+        env:
+          ENV_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CI_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          CI_REPOSITORY_NAME: ${{ github.event.repository.name }}
+        run: python src/endorsement.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update endorsements in README" && git push)
