@@ -18,12 +18,15 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 - [My First Post](http://baptistecolle.com/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
-## Here is a joke for you 😜
+## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why was the JavaScript developer sad?
+**Q:** What is a dying programmer's last program?
 
-**A:** Because they didn't Node how to Express themself!
+**A:** Goodbye, world!
 <!-- JOKE:END -->
+
+> [!NOTE] 
+> Btw, the joke is refreshed daily so stay tuned maybe it will be funnier tomorrow*
 
 ## Some quotes about me 💬
 > "This guy talks about PRs during our dates, I don't know if I can take this anymore" - Baptiste's Girlfriend
