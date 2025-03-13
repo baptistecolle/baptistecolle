@@ -29,7 +29,7 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 > Btw, the joke is refreshed daily so stay tuned maybe it will be funnier tomorrow 😅
 
 ## Some quotes about me 💬
-> "This guy talks about PRs during our dates, I don't know if I can take this anymore" - Baptiste's Girlfriend
+> "I thought 'commit' was about relationships, but now I know it's mostly about Git" - Baptiste's Girlfriend
 >
 > "I challenged him to a video game once. He spent more time analyzing the game mechanics than actually playing" - Baptiste's Brother
 >
