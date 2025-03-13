@@ -117,7 +117,11 @@ def generate_endorsements_content(data):
         # Even with no data, create a placeholder message
         rendered_list_str = "- No endorsements yet. Be the first to endorse!"
     else:
-        for x in data:
+        # Sort data by number of reactions (endorsers) in descending order
+        sorted_data = sorted(data, key=lambda x: len(x['reactions']), reverse=True)
+        logger.info("Sorted endorsements by number of endorsers (most to least)")
+        
+        for x in sorted_data:
             logger.info(f"Processing endorsement title: '{x['title']}'")
             
             # Clean the title - remove HTML tags but preserve emojis
