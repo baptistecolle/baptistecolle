@@ -33,4 +33,5 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 If you want to endorse me for a skill 💪, you can do so [here](https://github.com/baptistecolle/baptistecolle/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE). Thanks for your support! 🫶
 
 <!-- ENDORSEMENTS:START -->
+- [🧪 Testing](https://github.com/baptistecolle/baptistecolle/issues/1): ![baptistecolle](https://avatars.githubusercontent.com/u/32412211?v=4&s=20 "baptistecolle") 
 <!-- ENDORSEMENTS:END -->
