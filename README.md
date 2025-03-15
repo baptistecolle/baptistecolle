@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is a dying programmer's last program?
+**Q:** Why do programmers wear glasses?
 
-**A:** Goodbye, world!
+**A:** Because they need to C#
 <!-- JOKE:END -->
 
 > [!NOTE] 
