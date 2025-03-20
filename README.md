@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why are modern programming languages so materialistic?
+**Q:** why do python programmers wear glasses?
 
-**A:** Because they are object-oriented.
+**A:** Because they can't C.
 <!-- JOKE:END -->
 
 > [!NOTE] 
