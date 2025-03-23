@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What are bits?
+**Q:** What do you call a developer who doesn't comment code?
 
-**A:** Tiny things left when you drop your computer down the stairs.
+**A:** A developer.
 <!-- JOKE:END -->
 
 > [!NOTE] 
