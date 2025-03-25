@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the JavaScript heap close shop?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** It ran out of memory.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
