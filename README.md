@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What's the object-oriented way to become wealthy?
+**Q:** Hey, wanna hear a joke?
 
-**A:** Inheritance.
+**A:** Parsing HTML with regex.
 <!-- JOKE:END -->
 
 > [!NOTE] 
