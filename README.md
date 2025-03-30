@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What's the object-oriented way to become wealthy?
+**Q:** Why did the programmer quit his job?
 
-**A:** Inheritance.
+**A:** Because he didn't get arrays.
 <!-- JOKE:END -->
 
 > [!NOTE] 
