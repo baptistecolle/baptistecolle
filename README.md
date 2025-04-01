@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is the best prefix for global variables?
+**Q:** Why are Assembly programmers always soaking wet?
 
-**A:** //
+**A:** They work below C-level.
 <!-- JOKE:END -->
 
 > [!NOTE] 
