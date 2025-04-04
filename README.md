@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the web developer walk out of a resturant in disgust?
+**Q:** Why are modern programming languages so materialistic?
 
-**A:** The seating was laid out in tables.
+**A:** Because they are object-oriented.
 <!-- JOKE:END -->
 
 > [!NOTE] 
