@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What do you call a group of 8 Hobbits?
+**Q:** Why was the JavaScript developer sad?
 
-**A:** A Hobbyte.
+**A:** Because they didn't Node how to Express themself!
 <!-- JOKE:END -->
 
 > [!NOTE] 
