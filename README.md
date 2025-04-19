@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is a dying programmer's last program?
+**Q:** Why did the functional programmer get thrown out of school?
 
-**A:** Goodbye, world!
+**A:** Because he refused to take classes.
 <!-- JOKE:END -->
 
 > [!NOTE] 
