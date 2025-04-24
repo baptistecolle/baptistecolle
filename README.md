@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey baby I wish your name was asynchronous...
+**Q:** Why did the web developer walk out of a resturant in disgust?
 
-**A:** ... so you'd give me a callback.
+**A:** The seating was laid out in tables.
 <!-- JOKE:END -->
 
 > [!NOTE] 
