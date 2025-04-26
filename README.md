@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What are bits?
+**Q:** Why do they call it hyper terminal?
 
-**A:** Tiny things left when you drop your computer down the stairs.
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
