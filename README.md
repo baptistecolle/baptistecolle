@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What do you call a developer who doesn't comment code?
+**Q:** How many programmers does it take to screw in a light bulb?
 
-**A:** A developer.
+**A:** None. It's a hardware problem.
 <!-- JOKE:END -->
 
 > [!NOTE] 
