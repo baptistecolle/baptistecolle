@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers confuse Halloween and Christmas?
+**Q:** Why do they call it hyper terminal?
 
-**A:** Because Oct 31 = Dec 25
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
