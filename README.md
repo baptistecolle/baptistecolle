@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** why do python programmers wear glasses?
+**Q:** What are bits?
 
-**A:** Because they can't C.
+**A:** Tiny things left when you drop your computer down the stairs.
 <!-- JOKE:END -->
 
 > [!NOTE] 
