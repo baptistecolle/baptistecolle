@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
+**Q:** Why did the Python data scientist get arrested at customs?
 
-**A:** Because 7 8 9 A?
+**A:** She was caught trying to import pandas!
 <!-- JOKE:END -->
 
 > [!NOTE] 
