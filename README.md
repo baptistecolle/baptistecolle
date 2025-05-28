@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the Python data scientist get arrested at customs?
+**Q:** What do you get if you lock a monkey in a room with a typewriter for 8 hours?
 
-**A:** She was caught trying to import pandas!
+**A:** A regular expression.
 <!-- JOKE:END -->
 
 > [!NOTE] 
