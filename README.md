@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What do you get if you lock a monkey in a room with a typewriter for 8 hours?
+**Q:** Hey, wanna hear a joke?
 
-**A:** A regular expression.
+**A:** Parsing HTML with regex.
 <!-- JOKE:END -->
 
 > [!NOTE] 
