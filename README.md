@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the database administrator leave his wife?
+**Q:** Why do programmers confuse Halloween and Christmas?
 
-**A:** She had one-to-many relationships.
+**A:** Because Oct 31 = Dec 25
 <!-- JOKE:END -->
 
 > [!NOTE] 
