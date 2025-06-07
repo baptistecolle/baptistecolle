@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the web developer walk out of a resturant in disgust?
+**Q:** Why do they call it hyper terminal?
 
-**A:** The seating was laid out in tables.
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
