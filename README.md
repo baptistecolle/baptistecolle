@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers wear glasses?
+**Q:** How do you generate a random string?
 
-**A:** Because they need to C#
+**A:** Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE:END -->
 
 > [!NOTE] 
