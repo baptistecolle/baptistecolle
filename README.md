@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why does no one like SQLrillex?
+**Q:** What do you call a developer who doesn't comment code?
 
-**A:** He keeps dropping the database.
+**A:** A developer.
 <!-- JOKE:END -->
 
 > [!NOTE] 
