@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers prefer using the dark mode?
+**Q:** Why did the Python programmer not respond to the foreign mails he got?
 
-**A:** Because light attracts bugs.
+**A:** Because his interpreter was busy collecting garbage.
 <!-- JOKE:END -->
 
 > [!NOTE] 
