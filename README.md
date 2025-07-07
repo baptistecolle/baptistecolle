@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey baby I wish your name was asynchronous...
+**Q:** why do python programmers wear glasses?
 
-**A:** ... so you'd give me a callback.
+**A:** Because they can't C.
 <!-- JOKE:END -->
 
 > [!NOTE] 
