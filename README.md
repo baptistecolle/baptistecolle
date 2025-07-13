@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers prefer using the dark mode?
+**Q:** Why did the programmer jump on the table?
 
-**A:** Because light attracts bugs.
+**A:** Because debug was on his screen.
 <!-- JOKE:END -->
 
 > [!NOTE] 
