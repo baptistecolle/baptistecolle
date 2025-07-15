@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** So what's a set of predefined steps the government might take to preserve the environment?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** An Al-Gore-ithm.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
