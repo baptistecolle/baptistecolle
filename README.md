@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is Linux safe?
+**Q:** What do you call a group of 8 Hobbits?
 
-**A:** Hackers peak through Windows only.
+**A:** A Hobbyte.
 <!-- JOKE:END -->
 
 > [!NOTE] 
