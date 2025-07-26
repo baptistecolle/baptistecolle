@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey baby I wish your name was asynchronous...
+**Q:** How did the programmer die in the shower?
 
-**A:** ... so you'd give me a callback.
+**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 <!-- JOKE:END -->
 
 > [!NOTE] 
