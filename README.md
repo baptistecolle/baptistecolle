@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** why do python programmers wear glasses?
+**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
 
-**A:** Because they can't C.
+**A:** Because 7 8 9 A?
 <!-- JOKE:END -->
 
 > [!NOTE] 
