@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
+**Q:** Hey baby I wish your name was asynchronous...
 
-**A:** Because 7 8 9 A?
+**A:** ... so you'd give me a callback.
 <!-- JOKE:END -->
 
 > [!NOTE] 
