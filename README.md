@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why does no one like SQLrillex?
+**Q:** Why do they call it hyper terminal?
 
-**A:** He keeps dropping the database.
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
