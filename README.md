@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did you make your friend rage?
+**Q:** Hey baby I wish your name was asynchronous...
 
-**A:** I implemented a greek question mark in his JavaScript code.
+**A:** ... so you'd give me a callback.
 <!-- JOKE:END -->
 
 > [!NOTE] 
