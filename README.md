@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers confuse Halloween and Christmas?
+**Q:** Why did the programmer quit his job?
 
-**A:** Because Oct 31 = Dec 25
+**A:** Because he didn't get arrays.
 <!-- JOKE:END -->
 
 > [!NOTE] 
