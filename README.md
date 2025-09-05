@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why are modern programming languages so materialistic?
+**Q:** Why did the Python data scientist get arrested at customs?
 
-**A:** Because they are object-oriented.
+**A:** She was caught trying to import pandas!
 <!-- JOKE:END -->
 
 > [!NOTE] 
