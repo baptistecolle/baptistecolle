@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the database administrator leave his wife?
+**Q:** Why did the programmer jump on the table?
 
-**A:** She had one-to-many relationships.
+**A:** Because debug was on his screen.
 <!-- JOKE:END -->
 
 > [!NOTE] 
