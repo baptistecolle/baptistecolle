@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why does no one like SQLrillex?
+**Q:** Why do programmers prefer using the dark mode?
 
-**A:** He keeps dropping the database.
+**A:** Because light attracts bugs.
 <!-- JOKE:END -->
 
 > [!NOTE] 
