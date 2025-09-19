@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How do you generate a random string?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** Put a Windows user in front of Vim and tell them to exit.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
