@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is Linux safe?
+**Q:** Why did the database administrator leave his wife?
 
-**A:** Hackers peak through Windows only.
+**A:** She had one-to-many relationships.
 <!-- JOKE:END -->
 
 > [!NOTE] 
