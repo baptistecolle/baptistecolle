@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is the best prefix for global variables?
+**Q:** Why did the functional programmer get thrown out of school?
 
-**A:** //
+**A:** Because he refused to take classes.
 <!-- JOKE:END -->
 
 > [!NOTE] 
