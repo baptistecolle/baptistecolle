@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers wear glasses?
+**Q:** What is a dying programmer's last program?
 
-**A:** Because they need to C#
+**A:** Goodbye, world!
 <!-- JOKE:END -->
 
 > [!NOTE] 
