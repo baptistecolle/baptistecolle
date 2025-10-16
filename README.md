@@ -13,7 +13,7 @@ I'm Baptiste, ML Engineer at Hugging Face 🤗 from Geneva, Switzerland 🇨🇭
 I am also running a [blog](https://baptistecolle.com) where I write about my experiences and learnings 😵‍💫
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My Work on Accelerating LLM Inference with TGI on Intel Gaudi](http://baptistecolle.com/posts/tgi_gaudi/)
+- [🚀 My Work on Accelerating LLM Inference with TGI on Intel Gaudi](https://baptistecolle.com/blog/tgi-gaudi)
 <!-- BLOG-POST-LIST:END -->
 
 ## Here is a joke for you 😜 
