@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How do you generate a random string?
+**Q:** Why do they call it hyper terminal?
 
-**A:** Put a Windows user in front of Vim and tell them to exit.
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
