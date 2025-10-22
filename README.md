@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the JavaScript heap close shop?
+**Q:** Hey, wanna hear a joke?
 
-**A:** It ran out of memory.
+**A:** Parsing HTML with regex.
 <!-- JOKE:END -->
 
 > [!NOTE] 
