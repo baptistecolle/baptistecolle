@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do they call it hyper terminal?
+**Q:** Why did the functional programmer get thrown out of school?
 
-**A:** Too much Java.
+**A:** Because he refused to take classes.
 <!-- JOKE:END -->
 
 > [!NOTE] 
