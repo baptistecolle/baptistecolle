@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the functional programmer get thrown out of school?
+**Q:** Why was the JavaScript developer sad?
 
-**A:** Because he refused to take classes.
+**A:** Because they didn't Node how to Express themself!
 <!-- JOKE:END -->
 
 > [!NOTE] 
