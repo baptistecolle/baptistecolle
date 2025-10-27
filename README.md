@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why was the JavaScript developer sad?
+**Q:** Why did the Python data scientist get arrested at customs?
 
-**A:** Because they didn't Node how to Express themself!
+**A:** She was caught trying to import pandas!
 <!-- JOKE:END -->
 
 > [!NOTE] 
