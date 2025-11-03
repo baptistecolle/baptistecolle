@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What's the object-oriented way to become wealthy?
+**Q:** How can you tell an extroverted programmer?
 
-**A:** Inheritance.
+**A:** He looks at YOUR shoes when he's talking.
 <!-- JOKE:END -->
 
 > [!NOTE] 
