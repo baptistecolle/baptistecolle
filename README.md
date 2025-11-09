@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did you make your friend rage?
+**Q:** Why did the database administrator leave his wife?
 
-**A:** I implemented a greek question mark in his JavaScript code.
+**A:** She had one-to-many relationships.
 <!-- JOKE:END -->
 
 > [!NOTE] 
