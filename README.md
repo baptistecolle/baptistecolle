@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the database administrator leave his wife?
+**Q:** Why are Assembly programmers always soaking wet?
 
-**A:** She had one-to-many relationships.
+**A:** They work below C-level.
 <!-- JOKE:END -->
 
 > [!NOTE] 
