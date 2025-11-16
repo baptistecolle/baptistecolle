@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** So what's a set of predefined steps the government might take to preserve the environment?
+**Q:** Why did the Python programmer not respond to the foreign mails he got?
 
-**A:** An Al-Gore-ithm.
+**A:** Because his interpreter was busy collecting garbage.
 <!-- JOKE:END -->
 
 > [!NOTE] 
