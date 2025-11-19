@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did the programmer die in the shower?
+**Q:** So what's a set of predefined steps the government might take to preserve the environment?
 
-**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+**A:** An Al-Gore-ithm.
 <!-- JOKE:END -->
 
 > [!NOTE] 
