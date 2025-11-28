@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey baby I wish your name was asynchronous...
+**Q:** How many programmers does it take to screw in a light bulb?
 
-**A:** ... so you'd give me a callback.
+**A:** None. It's a hardware problem.
 <!-- JOKE:END -->
 
 > [!NOTE] 
