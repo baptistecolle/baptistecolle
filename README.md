@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How many programmers does it take to screw in a light bulb?
+**Q:** What are bits?
 
-**A:** None. It's a hardware problem.
+**A:** Tiny things left when you drop your computer down the stairs.
 <!-- JOKE:END -->
 
 > [!NOTE] 
