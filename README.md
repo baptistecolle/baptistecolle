@@ -18,9 +18,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
+**Q:** Why are modern programming languages so materialistic?
 
-**A:** Because 7 8 9 A?
+**A:** Because they are object-oriented.
 <!-- JOKE:END -->
 
 > [!NOTE] 
