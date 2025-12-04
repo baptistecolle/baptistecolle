@@ -1,6 +1,7 @@
 # Hey! Welcome to my GitHub profile 👋
 
-I'm Baptiste, ML Engineer at Hugging Face 🤗 from Geneva, Switzerland 🇨🇭 Currently exploring life in the Netherlands 🇳🇱
+I'm Baptiste. After working as an ML Engineer at Hugging Face 🤗, I decided to take the leap and start my own company. I’m currently building in public, experimenting fast, and learning even faster — while building at a pace my sleep schedule strongly disagrees with 😅. 
+-> Follow my adventure on [X](https://x.com/_BaptisteColle)
 
 ## Some Fun Facts about Me 🤔
 
