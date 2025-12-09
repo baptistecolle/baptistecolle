@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why was the JavaScript developer sad?
+**Q:** How did you make your friend rage?
 
-**A:** Because they didn't Node how to Express themself!
+**A:** I implemented a greek question mark in his JavaScript code.
 <!-- JOKE:END -->
 
 > [!NOTE] 
