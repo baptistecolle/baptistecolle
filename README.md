@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How many programmers does it take to screw in a light bulb?
+**Q:** Why did the Python data scientist get arrested at customs?
 
-**A:** None. It's a hardware problem.
+**A:** She was caught trying to import pandas!
 <!-- JOKE:END -->
 
 > [!NOTE] 
