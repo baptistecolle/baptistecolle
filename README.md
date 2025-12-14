@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What are bits?
+**Q:** So what's a set of predefined steps the government might take to preserve the environment?
 
-**A:** Tiny things left when you drop your computer down the stairs.
+**A:** An Al-Gore-ithm.
 <!-- JOKE:END -->
 
 > [!NOTE] 
