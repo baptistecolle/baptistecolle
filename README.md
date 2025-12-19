@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the Python data scientist get arrested at customs?
+**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
 
-**A:** She was caught trying to import pandas!
+**A:** Because 7 8 9 A?
 <!-- JOKE:END -->
 
 > [!NOTE] 
