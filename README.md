@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is the best prefix for global variables?
+**Q:** why do python programmers wear glasses?
 
-**A:** //
+**A:** Because they can't C.
 <!-- JOKE:END -->
 
 > [!NOTE] 
