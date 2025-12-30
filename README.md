@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** why do python programmers wear glasses?
+**Q:** Why was the JavaScript developer sad?
 
-**A:** Because they can't C.
+**A:** Because they didn't Node how to Express themself!
 <!-- JOKE:END -->
 
 > [!NOTE] 
