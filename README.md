@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do they call it hyper terminal?
+**Q:** Why did the programmer quit his job?
 
-**A:** Too much Java.
+**A:** Because he didn't get arrays.
 <!-- JOKE:END -->
 
 > [!NOTE] 
