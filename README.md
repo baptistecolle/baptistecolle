@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did you make your friend rage?
+**Q:** Why did the programmer quit his job?
 
-**A:** I implemented a greek question mark in his JavaScript code.
+**A:** Because he didn't get arrays.
 <!-- JOKE:END -->
 
 > [!NOTE] 
