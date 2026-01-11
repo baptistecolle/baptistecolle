@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is a dying programmer's last program?
+**Q:** .NET developers are picky when it comes to food.
 
-**A:** Goodbye, world!
+**A:** They only like chicken NuGet.
 <!-- JOKE:END -->
 
 > [!NOTE] 
