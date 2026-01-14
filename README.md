@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why are Assembly programmers always soaking wet?
+**Q:** Why did the JavaScript heap close shop?
 
-**A:** They work below C-level.
+**A:** It ran out of memory.
 <!-- JOKE:END -->
 
 > [!NOTE] 
