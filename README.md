@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers wear glasses?
+**Q:** What do you get if you lock a monkey in a room with a typewriter for 8 hours?
 
-**A:** Because they need to C#
+**A:** A regular expression.
 <!-- JOKE:END -->
 
 > [!NOTE] 
