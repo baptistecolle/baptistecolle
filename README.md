@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why are Assembly programmers always soaking wet?
+**Q:** How did the programmer die in the shower?
 
-**A:** They work below C-level.
+**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 <!-- JOKE:END -->
 
 > [!NOTE] 
