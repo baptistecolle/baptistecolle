@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do they call it hyper terminal?
+**Q:** Why do Java programmers hate communism?
 
-**A:** Too much Java.
+**A:** They don't want to live in a classless society.
 <!-- JOKE:END -->
 
 > [!NOTE] 
