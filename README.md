@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How can you tell an extroverted programmer?
+**Q:** What do you call a developer who doesn't comment code?
 
-**A:** He looks at YOUR shoes when he's talking.
+**A:** A developer.
 <!-- JOKE:END -->
 
 > [!NOTE] 
