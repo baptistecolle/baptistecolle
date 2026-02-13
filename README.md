@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers wear glasses?
+**Q:** Why did the web developer walk out of a resturant in disgust?
 
-**A:** Because they need to C#
+**A:** The seating was laid out in tables.
 <!-- JOKE:END -->
 
 > [!NOTE] 
