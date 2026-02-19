@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the functional programmer get thrown out of school?
+**Q:** So what's a set of predefined steps the government might take to preserve the environment?
 
-**A:** Because he refused to take classes.
+**A:** An Al-Gore-ithm.
 <!-- JOKE:END -->
 
 > [!NOTE] 
