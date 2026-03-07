@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers prefer using the dark mode?
+**Q:** Why did the database administrator leave his wife?
 
-**A:** Because light attracts bugs.
+**A:** She had one-to-many relationships.
 <!-- JOKE:END -->
 
 > [!NOTE] 
