@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is the most used language in programming?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** Profanity.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
