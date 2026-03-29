@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did you make your friend rage?
+**Q:** Why did the Python programmer not respond to the foreign mails he got?
 
-**A:** I implemented a greek question mark in his JavaScript code.
+**A:** Because his interpreter was busy collecting garbage.
 <!-- JOKE:END -->
 
 > [!NOTE] 
