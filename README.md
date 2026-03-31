@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why does no one like SQLrillex?
+**Q:** Why do programmers confuse Halloween and Christmas?
 
-**A:** He keeps dropping the database.
+**A:** Because Oct 31 = Dec 25
 <!-- JOKE:END -->
 
 > [!NOTE] 
