@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What's the object-oriented way to become wealthy?
+**Q:** Why did the functional programmer get thrown out of school?
 
-**A:** Inheritance.
+**A:** Because he refused to take classes.
 <!-- JOKE:END -->
 
 > [!NOTE] 
