@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
+**Q:** How many programmers does it take to screw in a light bulb?
 
-**A:** Because 7 8 9 A?
+**A:** None. It's a hardware problem.
 <!-- JOKE:END -->
 
 > [!NOTE] 
