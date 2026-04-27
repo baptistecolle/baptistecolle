@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How many programmers does it take to screw in a light bulb?
+**Q:** Why does no one like SQLrillex?
 
-**A:** None. It's a hardware problem.
+**A:** He keeps dropping the database.
 <!-- JOKE:END -->
 
 > [!NOTE] 
