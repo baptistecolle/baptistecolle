@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What is the best prefix for global variables?
+**Q:** Why do they call it hyper terminal?
 
-**A:** //
+**A:** Too much Java.
 <!-- JOKE:END -->
 
 > [!NOTE] 
