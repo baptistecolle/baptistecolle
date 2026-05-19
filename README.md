@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the Python programmer not respond to the foreign mails he got?
+**Q:** How did the programmer die in the shower?
 
-**A:** Because his interpreter was busy collecting garbage.
+**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 <!-- JOKE:END -->
 
 > [!NOTE] 
