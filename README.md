@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did the programmer die in the shower?
+**Q:** Why did the functional programmer get thrown out of school?
 
-**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+**A:** Because he refused to take classes.
 <!-- JOKE:END -->
 
 > [!NOTE] 
