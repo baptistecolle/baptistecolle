@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** .NET developers are picky when it comes to food.
+**Q:** What are bits?
 
-**A:** They only like chicken NuGet.
+**A:** Tiny things left when you drop your computer down the stairs.
 <!-- JOKE:END -->
 
 > [!NOTE] 
