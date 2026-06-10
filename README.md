@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** .NET developers are picky when it comes to food.
+**Q:** Why do programmers wear glasses?
 
-**A:** They only like chicken NuGet.
+**A:** Because they need to C#
 <!-- JOKE:END -->
 
 > [!NOTE] 
