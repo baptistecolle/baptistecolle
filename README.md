@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the Python data scientist get arrested at customs?
+**Q:** Hey baby I wish your name was asynchronous...
 
-**A:** She was caught trying to import pandas!
+**A:** ... so you'd give me a callback.
 <!-- JOKE:END -->
 
 > [!NOTE] 
