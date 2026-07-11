@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers wear glasses?
+**Q:** So what's a set of predefined steps the government might take to preserve the environment?
 
-**A:** Because they need to C#
+**A:** An Al-Gore-ithm.
 <!-- JOKE:END -->
 
 > [!NOTE] 
