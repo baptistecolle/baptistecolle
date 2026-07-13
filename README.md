@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the Python programmer not respond to the foreign mails he got?
+**Q:** Hey, wanna hear a joke?
 
-**A:** Because his interpreter was busy collecting garbage.
+**A:** Parsing HTML with regex.
 <!-- JOKE:END -->
 
 > [!NOTE] 
