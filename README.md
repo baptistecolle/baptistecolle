@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey, wanna hear a joke?
+**Q:** How do you generate a random string?
 
-**A:** Parsing HTML with regex.
+**A:** Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE:END -->
 
 > [!NOTE] 
