@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How do you generate a random string?
+**Q:** Why are modern programming languages so materialistic?
 
-**A:** Put a Windows user in front of Vim and tell them to exit.
+**A:** Because they are object-oriented.
 <!-- JOKE:END -->
 
 > [!NOTE] 
