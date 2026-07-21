@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What do you call a developer who doesn't comment code?
+**Q:** Why did the programmer quit his job?
 
-**A:** A developer.
+**A:** Because he didn't get arrays.
 <!-- JOKE:END -->
 
 > [!NOTE] 
