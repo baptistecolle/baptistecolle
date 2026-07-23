@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did the programmer die in the shower?
+**Q:** How can you tell an extroverted programmer?
 
-**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+**A:** He looks at YOUR shoes when he's talking.
 <!-- JOKE:END -->
 
 > [!NOTE] 
