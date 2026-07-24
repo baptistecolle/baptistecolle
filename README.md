@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How can you tell an extroverted programmer?
+**Q:** Why did the web developer walk out of a resturant in disgust?
 
-**A:** He looks at YOUR shoes when he's talking.
+**A:** The seating was laid out in tables.
 <!-- JOKE:END -->
 
 > [!NOTE] 
