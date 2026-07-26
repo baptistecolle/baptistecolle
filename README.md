@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What are bits?
+**Q:** Why did the web developer walk out of a resturant in disgust?
 
-**A:** Tiny things left when you drop your computer down the stairs.
+**A:** The seating was laid out in tables.
 <!-- JOKE:END -->
 
 > [!NOTE] 
