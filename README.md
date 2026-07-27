@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the web developer walk out of a resturant in disgust?
+**Q:** Why did the Python programmer not respond to the foreign mails he got?
 
-**A:** The seating was laid out in tables.
+**A:** Because his interpreter was busy collecting garbage.
 <!-- JOKE:END -->
 
 > [!NOTE] 
