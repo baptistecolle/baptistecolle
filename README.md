@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey baby I wish your name was asynchronous...
+**Q:** What do you call a developer who doesn't comment code?
 
-**A:** ... so you'd give me a callback.
+**A:** A developer.
 <!-- JOKE:END -->
 
 > [!NOTE] 
