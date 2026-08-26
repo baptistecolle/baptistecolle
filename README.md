@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How do you generate a random string?
+**Q:** Why did the database administrator leave his wife?
 
-**A:** Put a Windows user in front of Vim and tell them to exit.
+**A:** She had one-to-many relationships.
 <!-- JOKE:END -->
 
 > [!NOTE] 
