@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why did the database administrator leave his wife?
+**Q:** What do you call a group of 8 Hobbits?
 
-**A:** She had one-to-many relationships.
+**A:** A Hobbyte.
 <!-- JOKE:END -->
 
 > [!NOTE] 
