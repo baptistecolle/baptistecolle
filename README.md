@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How many programmers does it take to screw in a light bulb?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** None. It's a hardware problem.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
