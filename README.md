@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do programmers prefer using the dark mode?
+**Q:** What's the object-oriented way to become wealthy?
 
-**A:** Because light attracts bugs.
+**A:** Inheritance.
 <!-- JOKE:END -->
 
 > [!NOTE] 
