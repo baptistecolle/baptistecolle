@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why are modern programming languages so materialistic?
+**Q:** What is a dying programmer's last program?
 
-**A:** Because they are object-oriented.
+**A:** Goodbye, world!
 <!-- JOKE:END -->
 
 > [!NOTE] 
