@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why do Java programmers hate communism?
+**Q:** What is the most used language in programming?
 
-**A:** They don't want to live in a classless society.
+**A:** Profanity.
 <!-- JOKE:END -->
 
 > [!NOTE] 
