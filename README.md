@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What are bits?
+**Q:** What is the most used language in programming?
 
-**A:** Tiny things left when you drop your computer down the stairs.
+**A:** Profanity.
 <!-- JOKE:END -->
 
 > [!NOTE] 
