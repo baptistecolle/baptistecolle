@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Hey, wanna hear a joke?
+**Q:** Why did the JavaScript heap close shop?
 
-**A:** Parsing HTML with regex.
+**A:** It ran out of memory.
 <!-- JOKE:END -->
 
 > [!NOTE] 
