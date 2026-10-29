@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why does no one like SQLrillex?
+**Q:** How did you make your friend rage?
 
-**A:** He keeps dropping the database.
+**A:** I implemented a greek question mark in his JavaScript code.
 <!-- JOKE:END -->
 
 > [!NOTE] 
