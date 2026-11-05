@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** So what's a set of predefined steps the government might take to preserve the environment?
+**Q:** Why did the Python data scientist get arrested at customs?
 
-**A:** An Al-Gore-ithm.
+**A:** She was caught trying to import pandas!
 <!-- JOKE:END -->
 
 > [!NOTE] 
