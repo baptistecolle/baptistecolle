@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** How did the programmer die in the shower?
+**Q:** What is the most used language in programming?
 
-**A:** He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+**A:** Profanity.
 <!-- JOKE:END -->
 
 > [!NOTE] 
