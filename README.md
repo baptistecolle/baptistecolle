@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** Why is 6 afraid of 7 in hexadecimal Canada?
+**Q:** How do you generate a random string?
 
-**A:** Because 7 8 9 A?
+**A:** Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE:END -->
 
 > [!NOTE] 
