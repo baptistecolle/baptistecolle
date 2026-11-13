@@ -20,9 +20,9 @@ I am also running a [blog](https://baptistecolle.com) where I write about my exp
 
 ## Here is a joke for you 😜 
 <!-- JOKE:START -->
-**Q:** What do you call a group of 8 Hobbits?
+**Q:** Why did the Python programmer not respond to the foreign mails he got?
 
-**A:** A Hobbyte.
+**A:** Because his interpreter was busy collecting garbage.
 <!-- JOKE:END -->
 
 > [!NOTE] 
